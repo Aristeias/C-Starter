@@ -13,19 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\基础阶段">
+      <UniqueIdentifier>{f0fc084a-82e7-43ee-9c13-8ea768024241}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="3_11_1输出.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="3_22_1输入.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\基础阶段</Filter>
     </ClCompile>
     <ClCompile Include="3_12_1数据类型.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="3_22_1输入.cpp">
+      <Filter>源文件\基础阶段</Filter>
     </ClCompile>
     <ClCompile Include="3_22_2运算符.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="3_22_3程序流程.cpp">
+      <Filter>源文件\基础阶段</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
