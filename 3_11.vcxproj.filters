@@ -30,7 +30,22 @@
     <ClCompile Include="3_22_2运算符.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_22_3程序流程.cpp">
+    <ClCompile Include="3_22_3程序流程-选择.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="3_22_4程序流程-循环.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="3_26_1乘法口诀.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="3_26_2敲桌子.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="3_26_3一维数组.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="3_26_4二维数组.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
   </ItemGroup>
