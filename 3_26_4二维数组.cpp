@@ -24,6 +24,7 @@ int main() {
 
 	cout << sizeof(arr2) << endl;
 	cout << sizeof(arr2[0]) << endl;
+	cout << sizeof(arr2[0][0]) << endl;
 
 }
  

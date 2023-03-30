@@ -48,5 +48,8 @@
     <ClCompile Include="3_26_4二维数组.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
+    <ClCompile Include="3_30_1函数.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
