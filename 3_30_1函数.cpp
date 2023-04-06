@@ -1,7 +1,8 @@
 #include <iostream>
+#include "4_05_1.h"
 using namespace std;
 
-int add(int num1, int num2);
+
 
 int main() {
 	int a = 10;

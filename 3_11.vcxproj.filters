@@ -51,5 +51,13 @@
     <ClCompile Include="3_30_1函数.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
+    <ClCompile Include="4_05_2指针.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="4_05_1.h">
+      <Filter>源文件\基础阶段</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
