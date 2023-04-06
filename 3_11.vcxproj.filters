@@ -54,6 +54,12 @@
     <ClCompile Include="4_05_2指针.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
+    <ClCompile Include="4_06_1指针和数组.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="4_06_02指针-数组-函数.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="4_05_1.h">
