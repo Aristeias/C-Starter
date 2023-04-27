@@ -57,7 +57,19 @@
     <ClCompile Include="4_06_1指针和数组.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_06_02指针-数组-函数.cpp">
+    <ClCompile Include="4_06_2指针-数组-函数.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="4_06_3结构体.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="4_27_1结构体数组.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="4_27_2结构体指针.cpp">
+      <Filter>源文件\基础阶段</Filter>
+    </ClCompile>
+    <ClCompile Include="4_27_3结构体嵌套.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
   </ItemGroup>
