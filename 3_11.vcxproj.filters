@@ -25,93 +25,107 @@
     <Filter Include="源文件\基础阶段\4_29_4通讯录案例">
       <UniqueIdentifier>{8fdf2bb2-f2d1-458b-be13-f50fbce183e1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\面向对象">
+      <UniqueIdentifier>{2df24bd4-561c-43f0-b93f-1effd043d8c3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3_11_1输出.cpp">
+    <ClCompile Include="基础阶段\3_11_1输出.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_12_1数据类型.cpp">
+    <ClCompile Include="基础阶段\3_12_1数据类型.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_22_1输入.cpp">
+    <ClCompile Include="基础阶段\3_22_1输入.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_22_2运算符.cpp">
+    <ClCompile Include="基础阶段\3_22_2运算符.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_22_3程序流程-选择.cpp">
+    <ClCompile Include="基础阶段\3_22_3程序流程-选择.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_22_4程序流程-循环.cpp">
+    <ClCompile Include="基础阶段\3_22_4程序流程-循环.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_26_1乘法口诀.cpp">
+    <ClCompile Include="基础阶段\3_26_1乘法口诀.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_26_2敲桌子.cpp">
+    <ClCompile Include="基础阶段\3_26_2敲桌子.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_26_3一维数组.cpp">
+    <ClCompile Include="基础阶段\3_26_3一维数组.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_26_4二维数组.cpp">
+    <ClCompile Include="基础阶段\3_26_4二维数组.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="3_30_1函数.cpp">
+    <ClCompile Include="基础阶段\3_30_1函数.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_05_2指针.cpp">
+    <ClCompile Include="基础阶段\4_05_2指针.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_06_1指针和数组.cpp">
+    <ClCompile Include="基础阶段\4_06_1指针和数组.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_06_2指针-数组-函数.cpp">
+    <ClCompile Include="基础阶段\4_06_2指针-数组-函数.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_06_3结构体.cpp">
+    <ClCompile Include="基础阶段\4_06_3结构体.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_27_1结构体数组.cpp">
+    <ClCompile Include="基础阶段\4_27_1结构体数组.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_27_2结构体指针.cpp">
+    <ClCompile Include="基础阶段\4_27_2结构体指针.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_27_3结构体嵌套.cpp">
+    <ClCompile Include="基础阶段\4_27_3结构体嵌套.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_27_4结构体-函数传递.cpp">
+    <ClCompile Include="基础阶段\4_27_4结构体-函数传递.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="4_29_1结构体中的const.cpp">
+    <ClCompile Include="基础阶段\4_29_1结构体中的const.cpp">
       <Filter>源文件\基础阶段</Filter>
     </ClCompile>
-    <ClCompile Include="mainFileFirst.cpp">
+    <ClCompile Include="基础阶段\结构体案例一\mainFileFirst.cpp">
       <Filter>源文件\基础阶段\4_29_2结构体案例1</Filter>
     </ClCompile>
-    <ClCompile Include="headFileSecond.h">
+    <ClCompile Include="基础阶段\结构体案例二\headFileSecond.h">
       <Filter>源文件\基础阶段\4_29_3结构体案例2</Filter>
     </ClCompile>
-    <ClCompile Include="mainFileSecond.cpp">
+    <ClCompile Include="基础阶段\结构体案例二\mainFileSecond.cpp">
       <Filter>源文件\基础阶段\4_29_3结构体案例2</Filter>
     </ClCompile>
-    <ClCompile Include="phoneBookMain.cpp">
+    <ClCompile Include="基础阶段\通讯录阶段总结\phoneBookMain.cpp">
       <Filter>源文件\基础阶段\4_29_4通讯录案例</Filter>
     </ClCompile>
-    <ClCompile Include="phoneBookFunctions.cpp">
+    <ClCompile Include="基础阶段\通讯录阶段总结\phoneBookFunctions.cpp">
       <Filter>源文件\基础阶段\4_29_4通讯录案例</Filter>
+    </ClCompile>
+    <ClCompile Include="mainCpp.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="4_05_1.h">
+    <ClInclude Include="基础阶段\4_05_1.h">
       <Filter>源文件\基础阶段</Filter>
     </ClInclude>
-    <ClInclude Include="headFileFirst.h">
+    <ClInclude Include="基础阶段\结构体案例一\headFileFirst.h">
       <Filter>源文件\基础阶段\4_29_2结构体案例1</Filter>
     </ClInclude>
-    <ClInclude Include="phoneBookHead.h">
+    <ClInclude Include="基础阶段\通讯录阶段总结\phoneBookHead.h">
       <Filter>源文件\基础阶段\4_29_4通讯录案例</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE.txt" />
   </ItemGroup>
 </Project>
