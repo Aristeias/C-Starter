@@ -108,6 +108,24 @@
     <ClCompile Include="mainCpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="核心编程\5_02_1new.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_02_2引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_03_1函数提高.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_03_2类-封装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_03_3案例-学生类设计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_03_4案例-立方体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="基础阶段\4_05_1.h">

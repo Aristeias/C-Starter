@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="mainCpp.cpp">
       <DeploymentContent>true</DeploymentContent>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</DeploymentContent>
     </ClCompile>
     <ClCompile Include="基础阶段\3_11_1输出.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
@@ -199,8 +201,24 @@
     </ClCompile>
     <ClCompile Include="基础阶段\通讯录阶段总结\phoneBookFunctions.cpp" />
     <ClCompile Include="基础阶段\通讯录阶段总结\phoneBookMain.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="核心编程\5_02_2引用.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_02_1new.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_03_1函数提高.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_03_2类-封装.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_03_3案例-学生类设计.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_03_4案例-立方体.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="基础阶段\4_05_1.h" />
