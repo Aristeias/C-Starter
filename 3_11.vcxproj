@@ -132,75 +132,85 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</DeploymentContent>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_11_1输出.cpp">
+    <ClCompile Include="基础入门\3_11_1输出.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_12_1数据类型.cpp">
+    <ClCompile Include="基础入门\3_12_1数据类型.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_22_1输入.cpp">
+    <ClCompile Include="基础入门\3_22_1输入.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_22_2运算符.cpp">
+    <ClCompile Include="基础入门\3_22_2运算符.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_22_3程序流程-选择.cpp">
+    <ClCompile Include="基础入门\3_22_3程序流程-选择.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_22_4程序流程-循环.cpp">
+    <ClCompile Include="基础入门\3_22_4程序流程-循环.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_26_1乘法口诀.cpp">
+    <ClCompile Include="基础入门\3_26_1乘法口诀.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_26_2敲桌子.cpp">
+    <ClCompile Include="基础入门\3_26_2敲桌子.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_26_3一维数组.cpp">
+    <ClCompile Include="基础入门\3_26_3一维数组.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_26_4二维数组.cpp">
+    <ClCompile Include="基础入门\3_26_4二维数组.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\3_30_1函数.cpp">
+    <ClCompile Include="基础入门\3_30_1函数.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\4_05_2指针.cpp">
+    <ClCompile Include="基础入门\4_05_2指针.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\4_06_2指针-数组-函数.cpp">
+    <ClCompile Include="基础入门\4_06_2指针-数组-函数.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\4_06_1指针和数组.cpp">
+    <ClCompile Include="基础入门\4_06_1指针和数组.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\4_06_3结构体.cpp">
+    <ClCompile Include="基础入门\4_06_3结构体.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\4_27_1结构体数组.cpp">
+    <ClCompile Include="基础入门\4_27_1结构体数组.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\4_27_2结构体指针.cpp">
+    <ClCompile Include="基础入门\4_27_2结构体指针.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\4_27_3结构体嵌套.cpp">
+    <ClCompile Include="基础入门\4_27_3结构体嵌套.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\4_27_4结构体-函数传递.cpp">
+    <ClCompile Include="基础入门\4_27_4结构体-函数传递.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\4_29_1结构体中的const.cpp">
+    <ClCompile Include="基础入门\4_29_1结构体中的const.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\结构体案例二\headFileSecond.h" />
-    <ClCompile Include="基础阶段\结构体案例一\mainFileFirst.cpp">
+    <ClCompile Include="基础入门\结构体案例二\headFileSecond.h" />
+    <ClCompile Include="基础入门\结构体案例一\mainFileFirst.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\结构体案例二\mainFileSecond.cpp">
+    <ClCompile Include="基础入门\结构体案例二\mainFileSecond.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="基础阶段\通讯录阶段总结\phoneBookFunctions.cpp" />
-    <ClCompile Include="基础阶段\通讯录阶段总结\phoneBookMain.cpp">
+    <ClCompile Include="核心编程\5_05_1拷贝构造.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_08_1初始化.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_08_2对象成员.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_08_3静态成员.cpp" />
+    <ClCompile Include="通讯录管理系统\phoneBookFunctions.cpp" />
+    <ClCompile Include="通讯录管理系统\phoneBookMain.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="核心编程\5_02_2引用.cpp">
@@ -218,12 +228,17 @@
     <ClCompile Include="核心编程\5_03_3案例-学生类设计.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="核心编程\5_03_4案例-立方体.cpp" />
+    <ClCompile Include="核心编程\5_03_4案例-立方体.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="核心编程\5_04_1构造-析构.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="基础阶段\4_05_1.h" />
-    <ClInclude Include="基础阶段\结构体案例一\headFileFirst.h" />
-    <ClInclude Include="基础阶段\通讯录阶段总结\phoneBookHead.h" />
+    <ClInclude Include="基础入门\4_05_1.h" />
+    <ClInclude Include="基础入门\结构体案例一\headFileFirst.h" />
+    <ClInclude Include="通讯录管理系统\phoneBookHead.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitattributes">

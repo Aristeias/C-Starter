@@ -52,9 +52,9 @@ int main() {
 	Cube cube1,cube2;
 	cube1.setLHW(2, 3, 4);
 	cube2.setLHW(3, 2, 4);
-	compareG(&cube1, &cube2);
 	cout << cube1.getArea() << endl;
 	cout << cube2.getArea() << endl;
+	compareG(&cube1, &cube2);
 	cube1.compare(&cube2);
 
 }
